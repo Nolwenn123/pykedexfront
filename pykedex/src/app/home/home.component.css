@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Press+Start+2P&display=swap'); 
+ body {
+    background-color: #A76464;
+  }
+  
+  .topnav {
+    background-color: #A76464;
+    overflow: hidden;
+  }
+  
+  /* Style the links inside the navigation bar */
+  .topnav a {
+    
+    color: #f2f2f2;
+    
+    padding: 14px 16px;
+    text-decoration: none;
+    font-size: 17px;
+  }
+  .topnav .signin{
+    float: right;
+  }
+
+  .topnav .signup{
+    float: right;
+  }
+  .topnav .logo{
+    float: left;
+  }
+  
+  /* Change the color of links on hover */
+  .topnav a:hover {
+    background-color: #A76464;
+    color: #A76464;
+  }
+ 
+  .logo img {
+    width: 100px;
+    height: auto;
+  }
+
+  p {
+    font-family: 'Press Start 2P';
+  }
